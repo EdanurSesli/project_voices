@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-    implementation 'com.google.cloud:google-cloud-speech:1.22.4'
+
 
 
   # The following adds the Cupertino Icons font to your application.
